@@ -19,8 +19,7 @@ rm -rf .git
 rm -rf bin
 rm README.md
 
-echo "Initing the new git project..."
-git init
+echo "Adding the files to your own git project"
 git add .
-git commit -m"Initial Commit"
+git commit -m"Initial boilerplate commit"
 
